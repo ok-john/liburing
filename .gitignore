@@ -1,4 +1,7 @@
+/tag
+/.tag
 *.rej
+
 *.orig
 *~
 /*.patch
